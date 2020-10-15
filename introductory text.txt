@@ -1,1 +1,3 @@
 welcome to github peter
+
+github helps in saving changes in your code. 
